@@ -1,1 +1,1 @@
-# curso d egit do nutec
+# curso de git do nutec
